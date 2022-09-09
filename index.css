@@ -1,6 +1,7 @@
 #container{
     position: relative;
-    margin: auto;
+    margin-top: 8%;
+    margin-left: 30%;
     height: 440px;
     width: 440px;
     background: url(s.png) no-repeat;
